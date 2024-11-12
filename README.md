@@ -24,8 +24,7 @@ The goal of this project is to create a machine learning model that can predict 
    git clone https://github.com/surajsahubigdata/Deformation-Analysis--Structural-Simulation.git
 
 2. Install the required packages:
-
-    Inline `code`
+    ```cmd
     pip install -r requirements.txt
 
 3. Train the Model: Train a Random Forest regression model on the synthetic data, save it as deformation_model.pkl, or load the provided model file.
