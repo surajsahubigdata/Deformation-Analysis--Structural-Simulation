@@ -1,4 +1,4 @@
-# Deformation Prediction Using Machine Learning
+# 🚀 Predicting Material Deformation with Machine Learning! 🛠️
 
 This project aims to predict material deformation based on physical properties and applied load parameters using a machine learning model. We leverage synthetic data generated from simulated physical relationships and deploy a predictive model in a simple web-based application using Streamlit.
 
